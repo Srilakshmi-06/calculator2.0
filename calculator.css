@@ -27,6 +27,9 @@
     width: 250px;
     height: 100px;
 }
+.equal{
+    width:120px;
+}
 
 button {
     border-radius: 10px;
